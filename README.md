@@ -24,7 +24,10 @@ start App.java to kick start process and result will be printed out in console (
 Note: I have also attached screenshots of the results from this application output.
 
 
+![Alt text](https://github.com/aashish-tripathi/client-portfolio-service/blob/main/Result-1.PNG "Client Portfolio")
 
+
+![Alt text](https://github.com/aashish-tripathi/client-portfolio-service/blob/main/Result-2.PNG "Client Portfolio")
 
 
 
